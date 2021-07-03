@@ -18,5 +18,16 @@
     <ClCompile Include="Profilant.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="linear_search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scoped_timer.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="allocation_tracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
